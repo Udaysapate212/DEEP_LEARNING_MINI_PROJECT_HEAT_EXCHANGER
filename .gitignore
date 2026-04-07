@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (large binary files)
+*.h5
+*.keras
+*.pb
+*.ckpt
+*.weights.h5
+
+# Data files (if large)
+*.csv
+
+# Generated plots and outputs
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Logs
+logs/
+*.log
+
+# TensorFlow
+.tensorboard/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Comparison outputs
+predictions_comparison.csv
+detailed_comparison.csv
