@@ -1,0 +1,421 @@
+subset_name,subset_size,target,target_label,target_unit,model,point_index,hot_inlet_temperature_k,cold_inlet_mass_flow_kg_s,actual_value,predicted_value,error
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,0,538.807,3.13636,130.203,129.97354901082113,0.22945098917887208
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,1,435.776,1.40909,94.9114,94.69722271202308,0.21417728797692348
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,2,379.211,3.04545,76.0328,77.78330338007126,-1.7505033800712653
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,3,377.19,1.31818,71.8106,75.34086810016915,-3.5302681001691525
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,4,383.251,1.95455,76.3232,77.26270283009495,-0.939502830094952
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,5,474.16,2.40909,110.118,108.70161258621074,1.416387413789252
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,6,405.473,2.77273,86.5526,86.57768585192754,-0.025085851927542535
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,7,510.524,1.68182,119.726,118.74451941521905,0.9814805847809538
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,8,423.655,4.68182,94.6089,94.67334628646634,-0.06444628646633532
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,9,385.271,3.68182,79.0886,80.51383629537935,-1.4252362953793494
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,10,514.564,0.590909,112.172,112.26093100946625,-0.08893100946625054
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,11,552.948,1.59091,131.452,131.4838484200571,-0.03184842005708788
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,12,451.938,1.59091,101.083,100.52501076597568,0.5579892340243191
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,13,464.059,2.86364,107.406,106.42140763311599,0.9845923668840157
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,14,375.17,4.13636,74.9427,78.24519311727472,-3.3024931172747216
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,15,397.392,4.95455,84.6543,85.75037391505788,-1.0960739150578718
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,16,506.483,2.77273,120.517,119.58893115063867,0.928068849361324
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,17,496.382,3.22727,117.906,117.04766951123791,0.8583304887620926
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,18,472.14,0.681818,101.122,100.24899588862242,0.8730041113775826
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearRegressionGD,19,540.827,4.86364,131.772,133.53773649397158,-1.7657364939715876
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,0,538.807,3.13636,130.203,127.9015553725782,2.3014446274218017
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,1,435.776,1.40909,94.9114,97.0421519907195,-2.130751990719503
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,2,379.211,3.04545,76.0328,84.19087219911859,-8.158072199118592
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,3,377.19,1.31818,71.8106,82.27317708191501,-10.462577081915015
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,4,383.251,1.95455,76.3232,82.27317708191501,-5.949977081915009
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,5,474.16,2.40909,110.118,112.0099057651671,-1.8919057651671096
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,6,405.473,2.77273,86.5526,89.23555565897281,-2.6829556589728156
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,7,510.524,1.68182,119.726,119.95693875251747,-0.2309387525174742
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,8,423.655,4.68182,94.6089,96.33588432685971,-1.7269843268597072
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,9,385.271,3.68182,79.0886,85.73773802926469,-6.649138029264691
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,10,514.564,0.590909,112.172,119.4825001876192,-7.310500187619198
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,11,552.948,1.59091,131.452,127.67039065125724,3.7816093487427622
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,12,451.938,1.59091,101.083,100.17951068824671,0.9034893117532903
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,13,464.059,2.86364,107.406,108.47900103643245,-1.0730010364324443
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,14,375.17,4.13636,74.9427,85.73773802926469,-10.795038029264688
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,15,397.392,4.95455,84.6543,86.60322350684065,-1.948923506840643
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,16,506.483,2.77273,120.517,117.71878860420627,2.7982113957937287
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,17,496.382,3.22727,117.906,117.71878860420627,0.1872113957937387
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,18,472.14,0.681818,101.122,109.79875296711612,-8.676752967116116
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,GradientBoosting,19,540.827,4.86364,131.772,128.6515145354438,3.1204854645561966
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,0,538.807,3.13636,130.203,129.50866124336446,0.6943387566355455
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,1,435.776,1.40909,94.9114,94.38830568993009,0.5230943100699079
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,2,379.211,3.04545,76.0328,81.72518028825489,-5.6923802882548955
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,3,377.19,1.31818,71.8106,82.76290392231662,-10.95230392231663
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,4,383.251,1.95455,76.3232,81.47309911783609,-5.149899117836085
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,5,474.16,2.40909,110.118,102.37942212723655,7.738577872763443
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,6,405.473,2.77273,86.5526,90.66307698458155,-4.1104769845815525
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,7,510.524,1.68182,119.726,115.79231672279676,3.9336832772032437
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,8,423.655,4.68182,94.6089,92.8478670134004,1.7610329865996022
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,9,385.271,3.68182,79.0886,88.90364518794574,-9.815045187945742
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,10,514.564,0.590909,112.172,116.78623069010793,-4.614230690107931
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,11,552.948,1.59091,131.452,129.60148782730053,1.8505121726994673
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,12,451.938,1.59091,101.083,95.29911834557888,5.783881654421123
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,13,464.059,2.86364,107.406,103.02934434206341,4.376655657936595
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,14,375.17,4.13636,74.9427,88.60351758641575,-13.660817586415746
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,15,397.392,4.95455,84.6543,88.17031867346715,-3.516018673467144
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,16,506.483,2.77273,120.517,121.66201521064235,-1.145015210642356
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,17,496.382,3.22727,117.906,116.92256739461548,0.9834326053845217
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,18,472.14,0.681818,101.122,97.57457523896908,3.547424761030925
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,KNN,19,540.827,4.86364,131.772,132.87253646135707,-1.1005364613570805
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,0,538.807,3.13636,130.203,126.13557142857144,4.0674285714285645
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,1,435.776,1.40909,94.9114,100.387585,-5.476185000000001
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,2,379.211,3.04545,76.0328,83.60092777777778,-7.568127777777789
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,3,377.19,1.31818,71.8106,83.60092777777778,-11.79032777777779
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,4,383.251,1.95455,76.3232,83.60092777777778,-7.277727777777784
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,5,474.16,2.40909,110.118,115.53731250000001,-5.419312500000018
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,6,405.473,2.77273,86.5526,83.60092777777778,2.9516722222222143
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,7,510.524,1.68182,119.726,115.53731250000001,4.188687499999986
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,8,423.655,4.68182,94.6089,83.60092777777778,11.007972222222222
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,9,385.271,3.68182,79.0886,83.60092777777778,-4.512327777777784
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,10,514.564,0.590909,112.172,126.13557142857144,-13.963571428571441
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,11,552.948,1.59091,131.452,134.03966666666668,-2.587666666666678
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,12,451.938,1.59091,101.083,100.387585,0.695414999999997
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,13,464.059,2.86364,107.406,100.387585,7.0184150000000045
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,14,375.17,4.13636,74.9427,83.60092777777778,-8.658227777777782
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,15,397.392,4.95455,84.6543,83.60092777777778,1.0533722222222224
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,16,506.483,2.77273,120.517,115.53731250000001,4.979687499999983
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,17,496.382,3.22727,117.906,115.53731250000001,2.368687499999993
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,18,472.14,0.681818,101.122,100.387585,0.7344149999999985
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,DecisionTree,19,540.827,4.86364,131.772,126.13557142857144,5.636428571428553
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,0,538.807,3.13636,130.203,128.37920283143126,1.8237971685687455
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,1,435.776,1.40909,94.9114,95.01832307515889,-0.10692307515888899
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,2,379.211,3.04545,76.0328,86.5560092450712,-10.5232092450712
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,3,377.19,1.31818,71.8106,86.77744495168272,-14.96684495168273
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,4,383.251,1.95455,76.3232,85.67846779633612,-9.355267796336122
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,5,474.16,2.40909,110.118,113.29280899938287,-3.1748089993828756
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,6,405.473,2.77273,86.5526,87.65897311869757,-1.1063731186975758
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,7,510.524,1.68182,119.726,114.12348019272078,5.602519807279222
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,8,423.655,4.68182,94.6089,97.00926547583632,-2.4003654758363098
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,9,385.271,3.68182,79.0886,88.0443810802207,-8.955781080220703
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,10,514.564,0.590909,112.172,113.84685760410245,-1.6748576041024563
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,11,552.948,1.59091,131.452,122.3277227796509,9.1242772203491
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,12,451.938,1.59091,101.083,98.03524083041029,3.0477591695897104
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,13,464.059,2.86364,107.406,109.35071367769396,-1.9447136776939544
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,14,375.17,4.13636,74.9427,88.0443810802207,-13.1016810802207
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,15,397.392,4.95455,84.6543,91.36921940010396,-6.714919400103952
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,16,506.483,2.77273,120.517,121.54172731329244,-1.0247273132924448
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,17,496.382,3.22727,117.906,120.27868745939634,-2.3726874593963316
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,18,472.14,0.681818,101.122,109.16115401878942,-8.039154018789418
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,RandomForest,19,540.827,4.86364,131.772,127.01601655893633,4.7559834410636626
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,0,538.807,3.13636,130.203,109.1942425,21.0087575
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,1,435.776,1.40909,94.9114,109.1942425,-14.282842500000001
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,2,379.211,3.04545,76.0328,109.1942425,-33.16144250000001
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,3,377.19,1.31818,71.8106,109.1942425,-37.38364250000001
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,4,383.251,1.95455,76.3232,109.1942425,-32.8710425
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,5,474.16,2.40909,110.118,109.1942425,0.9237574999999936
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,6,405.473,2.77273,86.5526,109.1942425,-22.641642500000003
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,7,510.524,1.68182,119.726,109.1942425,10.531757499999998
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,8,423.655,4.68182,94.6089,109.1942425,-14.585342499999996
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,9,385.271,3.68182,79.0886,109.1942425,-30.105642500000002
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,10,514.564,0.590909,112.172,109.1942425,2.9777574999999956
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,11,552.948,1.59091,131.452,109.1942425,22.257757499999997
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,12,451.938,1.59091,101.083,109.1942425,-8.111242500000003
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,13,464.059,2.86364,107.406,109.1942425,-1.7882424999999955
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,14,375.17,4.13636,74.9427,109.1942425,-34.2515425
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,15,397.392,4.95455,84.6543,109.1942425,-24.539942499999995
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,16,506.483,2.77273,120.517,109.1942425,11.322757499999994
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,17,496.382,3.22727,117.906,109.1942425,8.711757500000004
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,18,472.14,0.681818,101.122,109.1942425,-8.072242500000002
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,MeanBaseline,19,540.827,4.86364,131.772,109.1942425,22.57775749999999
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,0,538.807,3.13636,130.203,42.39426287394652,87.80873712605347
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,1,435.776,1.40909,94.9114,41.76457777011166,53.14682222988834
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,2,379.211,3.04545,76.0328,39.6254610431448,36.40733895685519
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,3,377.19,1.31818,71.8106,41.07180617772801,30.738793822271987
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,4,383.251,1.95455,76.3232,40.29785967648871,36.02534032351129
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,5,474.16,2.40909,110.118,40.95421625850855,69.16378374149144
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,6,405.473,2.77273,86.5526,40.729418409210616,45.82318159078938
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,7,510.524,1.68182,119.726,42.28214987834497,77.44385012165503
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,8,423.655,4.68182,94.6089,37.995545146309624,56.61335485369038
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,9,385.271,3.68182,79.0886,39.5456098632878,39.5429901367122
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,10,514.564,0.590909,112.172,48.257143628509624,63.91485637149037
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,11,552.948,1.59091,131.452,43.652692711454556,87.79930728854544
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,12,451.938,1.59091,101.083,42.348598785557776,58.73440121444222
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,13,464.059,2.86364,107.406,41.809133977902654,65.59686602209734
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,14,375.17,4.13636,74.9427,37.72531881437504,37.21738118562496
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,15,397.392,4.95455,84.6543,37.79058838326158,46.86371161673843
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,16,506.483,2.77273,120.517,42.32314242616757,78.19385757383242
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,17,496.382,3.22727,117.906,41.04975775539286,76.85624224460715
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,18,472.14,0.681818,101.122,46.55353756621263,54.56846243378737
+low_data_100,100,hx_1_heat_load_kw,Heat load,kW,LinearSVR,19,540.827,4.86364,131.772,41.279659800477994,90.492340199522
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,0,538.807,3.13636,362.315,362.3855149332951,-0.07051493329510095
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,1,435.776,1.40909,370.703,370.74107360896767,-0.03807360896769296
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,2,379.211,3.04545,375.181,374.8106973912837,0.3703026087162584
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,3,377.19,1.31818,376.182,375.3646249476043,0.8173750523957324
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,4,383.251,1.95455,375.112,374.9362127931189,0.17578720688112526
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,5,474.16,2.40909,367.091,367.41878436519096,-0.32778436519095067
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,6,405.473,2.77273,372.686,372.735124120819,-0.04912412081904449
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,7,510.524,1.68182,364.807,365.02871406896327,-0.22171406896325152
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,8,423.655,4.68182,370.774,370.76781151446403,0.006188485535972177
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,9,385.271,3.68182,374.457,374.22681668763823,0.23018331236175982
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,10,514.564,0.590909,366.603,366.46335102015837,0.13964897984163827
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,11,552.948,1.59091,362.019,362.0530569154438,-0.03405691544378442
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,12,451.938,1.59091,369.237,369.3604544953291,-0.12345449532909925
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,13,464.059,2.86364,367.735,367.9740385849693,-0.23903858496930752
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,14,375.17,4.13636,375.439,374.7318732396287,0.7071267603712954
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,15,397.392,4.95455,373.137,372.9143951360335,0.22260486396652368
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,16,506.483,2.77273,364.619,364.82823146171415,-0.20923146171412554
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,17,496.382,3.22727,365.24,365.4372984423775,-0.1972984423774733
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,18,472.14,0.681818,369.228,369.5237973962122,-0.29579739621220824
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearRegressionGD,19,540.827,4.86364,361.942,361.49506320109094,0.44693679890906424
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,0,538.807,3.13636,362.315,362.7956428281,-0.48064282809997394
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,1,435.776,1.40909,370.703,370.09221769467007,0.6107823053299057
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,2,379.211,3.04545,375.181,373.28497430195404,1.8960256980459462
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,3,377.19,1.31818,376.182,373.67934107107254,2.502658928927474
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,4,383.251,1.95455,375.112,373.67934107107254,1.4326589289274807
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,5,474.16,2.40909,367.091,366.6523000620231,0.43869993797693496
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,6,405.473,2.77273,372.686,372.0011342887823,0.6848657112176966
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,7,510.524,1.68182,364.807,364.70949675572797,0.0975032442720476
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,8,423.655,4.68182,370.774,370.45545210194666,0.31854789805333894
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,9,385.271,3.68182,374.457,372.84179121695007,1.6152087830499227
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,10,514.564,0.590909,366.603,364.8121349372997,1.790865062700334
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,11,552.948,1.59091,362.019,362.92655132870107,-0.9075513287010608
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,12,451.938,1.59091,369.237,369.47989844055695,-0.2428984405569281
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,13,464.059,2.86364,367.735,367.51751573101035,0.217484268989665
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,14,375.17,4.13636,375.439,372.84179121695007,2.5972087830499504
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,15,397.392,4.95455,373.137,372.6566774799244,0.4803225200756174
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,16,506.483,2.77273,364.619,365.23633553702007,-0.6173355370200397
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,17,496.382,3.22727,365.24,365.23633553702007,0.003664462979941163
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,18,472.14,0.681818,369.228,367.24775558726225,1.9802444127377612
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,GradientBoosting,19,540.827,4.86364,361.942,362.62902692752687,-0.6870269275268583
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,0,538.807,3.13636,362.315,362.4804008571107,-0.16540085711068286
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,1,435.776,1.40909,370.703,370.82578532026025,-0.12278532026027733
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,2,379.211,3.04545,375.181,373.8310171921922,1.3499828078078053
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,3,377.19,1.31818,376.182,373.5850616670663,2.5969383329336893
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,4,383.251,1.95455,375.112,373.8908371107186,1.221162889281402
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,5,474.16,2.40909,367.091,368.9285593681136,-1.8375593681136024
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,6,405.473,2.77273,372.686,371.7103708926481,0.9756291073518923
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,7,510.524,1.68182,364.807,365.7421935513614,-0.935193551361408
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,8,423.655,4.68182,370.774,371.19188476112333,-0.4178847611233323
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,9,385.271,3.68182,374.457,372.1282323784945,2.3287676215055058
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,10,514.564,0.590909,366.603,365.5052919624999,1.0977080375001265
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,11,552.948,1.59091,362.019,362.458609554245,-0.4396095542450098
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,12,451.938,1.59091,369.237,370.6101216677764,-1.3731216677763882
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,13,464.059,2.86364,367.735,368.77498257864664,-1.0399825786466295
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,14,375.17,4.13636,375.439,372.1992746023398,3.2397253976602087
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,15,397.392,4.95455,373.137,372.3018612462614,0.8351387537385904
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,16,506.483,2.77273,364.619,364.3465433028645,0.27245669713551024
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,17,496.382,3.22727,365.24,365.473198111515,-0.23319811151498016
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,18,472.14,0.681818,369.228,370.0687529278554,-0.8407529278554193
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,KNN,19,540.827,4.86364,361.942,361.6802961661625,0.26170383383748685
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,0,538.807,3.13636,362.315,363.2830714285715,-0.9680714285714771
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,1,435.776,1.40909,370.703,369.40225,1.3007499999999936
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,2,379.211,3.04545,375.181,373.3861666666667,1.7948333333332585
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,3,377.19,1.31818,376.182,373.3861666666667,2.7958333333332916
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,4,383.251,1.95455,375.112,373.3861666666667,1.7258333333332985
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,5,474.16,2.40909,367.091,365.803,1.288000000000011
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,6,405.473,2.77273,372.686,373.3861666666667,-0.7001666666667461
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,7,510.524,1.68182,364.807,365.803,-0.9959999999999809
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,8,423.655,4.68182,370.774,373.3861666666667,-2.612166666666724
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,9,385.271,3.68182,374.457,373.3861666666667,1.070833333333269
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,10,514.564,0.590909,366.603,363.2830714285715,3.319928571428534
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,11,552.948,1.59091,362.019,361.4025,0.6165000000000305
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,12,451.938,1.59091,369.237,369.40225,-0.1652499999999577
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,13,464.059,2.86364,367.735,369.40225,-1.6672499999999673
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,14,375.17,4.13636,375.439,373.3861666666667,2.0528333333332967
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,15,397.392,4.95455,373.137,373.3861666666667,-0.24916666666672427
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,16,506.483,2.77273,364.619,365.803,-1.183999999999969
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,17,496.382,3.22727,365.24,365.803,-0.5629999999999882
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,18,472.14,0.681818,369.228,369.40225,-0.17424999999997226
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,DecisionTree,19,540.827,4.86364,361.942,363.2830714285715,-1.3410714285714675
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,0,538.807,3.13636,362.315,362.7489671976461,-0.4339671976460977
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,1,435.776,1.40909,370.703,370.6761232424942,0.026876757505760906
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,2,379.211,3.04545,375.181,372.68491020954644,2.4960897904535386
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,3,377.19,1.31818,376.182,372.631933685316,3.5500663146839884
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,4,383.251,1.95455,375.112,372.8930887137628,2.218911286237244
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,5,474.16,2.40909,367.091,366.3359846597467,0.7550153402532942
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,6,405.473,2.77273,372.686,372.4231323936124,0.2628676063876014
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,7,510.524,1.68182,364.807,366.13807549651415,-1.3310754965141314
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,8,423.655,4.68182,370.774,370.20334398276844,0.5706560172315562
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,9,385.271,3.68182,374.457,372.3316690363556,2.1253309636443873
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,10,514.564,0.590909,366.603,366.2029700709302,0.4000299290698308
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,11,552.948,1.59091,362.019,364.18776410743567,-2.1687641074356634
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,12,451.938,1.59091,369.237,369.9600425790593,-0.7230425790592676
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,13,464.059,2.86364,367.735,367.271848235861,0.46315176413901327
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,14,375.17,4.13636,375.439,372.3316690363556,3.107330963644415
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,15,397.392,4.95455,373.137,371.5419331160259,1.5950668839740842
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,16,506.483,2.77273,364.619,364.37486790682476,0.24413209317526707
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,17,496.382,3.22727,365.24,364.6751855204611,0.5648144795388816
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,18,472.14,0.681818,369.228,367.31688490604967,1.9111150939503432
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,RandomForest,19,540.827,4.86364,361.942,363.0729157919338,-1.1309157919337736
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,0,538.807,3.13636,362.315,367.30796250000003,-4.992962500000033
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,1,435.776,1.40909,370.703,367.30796250000003,3.395037499999944
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,2,379.211,3.04545,375.181,367.30796250000003,7.873037499999953
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,3,377.19,1.31818,376.182,367.30796250000003,8.874037499999986
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,4,383.251,1.95455,375.112,367.30796250000003,7.804037499999993
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,5,474.16,2.40909,367.091,367.30796250000003,-0.21696250000002237
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,6,405.473,2.77273,372.686,367.30796250000003,5.378037499999948
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,7,510.524,1.68182,364.807,367.30796250000003,-2.500962500000014
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,8,423.655,4.68182,370.774,367.30796250000003,3.4660374999999704
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,9,385.271,3.68182,374.457,367.30796250000003,7.149037499999963
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,10,514.564,0.590909,366.603,367.30796250000003,-0.7049625000000219
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,11,552.948,1.59091,362.019,367.30796250000003,-5.288962500000025
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,12,451.938,1.59091,369.237,367.30796250000003,1.9290374999999926
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,13,464.059,2.86364,367.735,367.30796250000003,0.4270374999999831
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,14,375.17,4.13636,375.439,367.30796250000003,8.13103749999999
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,15,397.392,4.95455,373.137,367.30796250000003,5.82903749999997
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,16,506.483,2.77273,364.619,367.30796250000003,-2.6889625000000024
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,17,496.382,3.22727,365.24,367.30796250000003,-2.0679625000000215
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,18,472.14,0.681818,369.228,367.30796250000003,1.920037499999978
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,MeanBaseline,19,540.827,4.86364,361.942,367.30796250000003,-5.365962500000023
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,0,538.807,3.13636,362.315,42.39426287394652,319.9207371260535
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,1,435.776,1.40909,370.703,41.76457777011166,328.9384222298883
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,2,379.211,3.04545,375.181,39.6254610431448,335.5555389568552
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,3,377.19,1.31818,376.182,41.07180617772801,335.110193822272
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,4,383.251,1.95455,375.112,40.29785967648871,334.8141403235113
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,5,474.16,2.40909,367.091,40.95421625850855,326.13678374149146
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,6,405.473,2.77273,372.686,40.729418409210616,331.95658159078937
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,7,510.524,1.68182,364.807,42.28214987834497,322.52485012165505
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,8,423.655,4.68182,370.774,37.995545146309624,332.7784548536904
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,9,385.271,3.68182,374.457,39.5456098632878,334.9113901367122
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,10,514.564,0.590909,366.603,48.257143628509624,318.3458563714904
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,11,552.948,1.59091,362.019,43.652692711454556,318.36630728854544
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,12,451.938,1.59091,369.237,42.348598785557776,326.88840121444224
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,13,464.059,2.86364,367.735,41.809133977902654,325.92586602209735
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,14,375.17,4.13636,375.439,37.72531881437504,337.713681185625
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,15,397.392,4.95455,373.137,37.79058838326158,335.3464116167384
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,16,506.483,2.77273,364.619,42.32314242616757,322.29585757383245
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,17,496.382,3.22727,365.24,41.04975775539286,324.19024224460713
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,18,472.14,0.681818,369.228,46.55353756621263,322.67446243378737
+low_data_100,100,hot_outlet_temperature_k,Hot outlet temperature,K,LinearSVR,19,540.827,4.86364,361.942,41.279659800477994,320.662340199522
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,0,538.807,3.13636,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,1,435.776,1.40909,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,2,379.211,3.04545,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,3,377.19,1.31818,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,4,383.251,1.95455,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,5,474.16,2.40909,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,6,405.473,2.77273,2011.51,2011.5100000000004,-4.547473508864641e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,7,510.524,1.68182,2011.51,2011.5100000000002,-2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,8,423.655,4.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,9,385.271,3.68182,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,10,514.564,0.590909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,11,552.948,1.59091,2011.51,2011.5100000000002,-2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,12,451.938,1.59091,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,13,464.059,2.86364,2011.51,2011.5100000000002,-2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,14,375.17,4.13636,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,15,397.392,4.95455,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,16,506.483,2.77273,2011.51,2011.5100000000002,-2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,17,496.382,3.22727,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,18,472.14,0.681818,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,KNN,19,540.827,4.86364,2011.51,2011.51,0.0
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,0,538.807,3.13636,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,1,435.776,1.40909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,2,379.211,3.04545,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,3,377.19,1.31818,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,4,383.251,1.95455,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,5,474.16,2.40909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,6,405.473,2.77273,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,7,510.524,1.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,8,423.655,4.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,9,385.271,3.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,10,514.564,0.590909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,11,552.948,1.59091,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,12,451.938,1.59091,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,13,464.059,2.86364,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,14,375.17,4.13636,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,15,397.392,4.95455,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,16,506.483,2.77273,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,17,496.382,3.22727,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,18,472.14,0.681818,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,MeanBaseline,19,540.827,4.86364,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,0,538.807,3.13636,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,1,435.776,1.40909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,2,379.211,3.04545,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,3,377.19,1.31818,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,4,383.251,1.95455,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,5,474.16,2.40909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,6,405.473,2.77273,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,7,510.524,1.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,8,423.655,4.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,9,385.271,3.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,10,514.564,0.590909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,11,552.948,1.59091,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,12,451.938,1.59091,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,13,464.059,2.86364,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,14,375.17,4.13636,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,15,397.392,4.95455,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,16,506.483,2.77273,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,17,496.382,3.22727,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,18,472.14,0.681818,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,RandomForest,19,540.827,4.86364,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,0,538.807,3.13636,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,1,435.776,1.40909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,2,379.211,3.04545,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,3,377.19,1.31818,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,4,383.251,1.95455,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,5,474.16,2.40909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,6,405.473,2.77273,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,7,510.524,1.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,8,423.655,4.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,9,385.271,3.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,10,514.564,0.590909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,11,552.948,1.59091,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,12,451.938,1.59091,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,13,464.059,2.86364,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,14,375.17,4.13636,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,15,397.392,4.95455,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,16,506.483,2.77273,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,17,496.382,3.22727,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,18,472.14,0.681818,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,DecisionTree,19,540.827,4.86364,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,0,538.807,3.13636,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,1,435.776,1.40909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,2,379.211,3.04545,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,3,377.19,1.31818,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,4,383.251,1.95455,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,5,474.16,2.40909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,6,405.473,2.77273,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,7,510.524,1.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,8,423.655,4.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,9,385.271,3.68182,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,10,514.564,0.590909,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,11,552.948,1.59091,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,12,451.938,1.59091,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,13,464.059,2.86364,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,14,375.17,4.13636,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,15,397.392,4.95455,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,16,506.483,2.77273,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,17,496.382,3.22727,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,18,472.14,0.681818,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,GradientBoosting,19,540.827,4.86364,2011.51,2011.5099999999998,2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,0,538.807,3.13636,2011.51,2011.5867326883692,-0.07673268836924763
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,1,435.776,1.40909,2011.51,2011.4520141406838,0.05798585931620437
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,2,379.211,3.04545,2011.51,2011.7305035643908,-0.22050356439081042
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,3,377.19,1.31818,2011.51,2011.6065317794087,-0.09653177940867863
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,4,383.251,1.95455,2011.51,2011.7434459608414,-0.23344596084143632
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,5,474.16,2.40909,2011.51,2011.467966685072,0.042033314927948595
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,6,405.473,2.77273,2011.51,2011.788065673702,-0.27806567370203084
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,7,510.524,1.68182,2011.51,2011.4514437755665,0.05855622443345965
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,8,423.655,4.68182,2011.51,2011.5549379678916,-0.04493796789165572
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,9,385.271,3.68182,2011.51,2012.053641684134,-0.5436416841339451
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,10,514.564,0.590909,2011.51,2010.9044466388316,0.6055533611684041
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,11,552.948,1.59091,2011.51,2011.7211474803703,-0.2111474803703004
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,12,451.938,1.59091,2011.51,2011.466956567126,0.04304343287390111
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,13,464.059,2.86364,2011.51,2011.537520959027,-0.027520959027015124
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,14,375.17,4.13636,2011.51,2011.883875920718,-0.37387592071809195
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,15,397.392,4.95455,2011.51,2011.698003278092,-0.18800327809208284
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,16,506.483,2.77273,2011.51,2011.4518781015709,0.0581218984291354
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,17,496.382,3.22727,2011.51,2011.4771431133822,0.03285688661776476
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,18,472.14,0.681818,2011.51,2011.9580530695266,-0.4480530695266225
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearRegressionGD,19,540.827,4.86364,2011.51,2011.3646359744232,0.1453640255767823
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,0,538.807,3.13636,2011.51,42.39426287394652,1969.1157371260535
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,1,435.776,1.40909,2011.51,41.76457777011166,1969.7454222298884
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,2,379.211,3.04545,2011.51,39.6254610431448,1971.8845389568553
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,3,377.19,1.31818,2011.51,41.07180617772801,1970.438193822272
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,4,383.251,1.95455,2011.51,40.29785967648871,1971.2121403235112
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,5,474.16,2.40909,2011.51,40.95421625850855,1970.5557837414915
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,6,405.473,2.77273,2011.51,40.729418409210616,1970.7805815907893
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,7,510.524,1.68182,2011.51,42.28214987834497,1969.2278501216551
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,8,423.655,4.68182,2011.51,37.995545146309624,1973.5144548536903
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,9,385.271,3.68182,2011.51,39.5456098632878,1971.9643901367122
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,10,514.564,0.590909,2011.51,48.257143628509624,1963.2528563714905
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,11,552.948,1.59091,2011.51,43.652692711454556,1967.8573072885454
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,12,451.938,1.59091,2011.51,42.348598785557776,1969.1614012144423
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,13,464.059,2.86364,2011.51,41.809133977902654,1969.7008660220974
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,14,375.17,4.13636,2011.51,37.72531881437504,1973.784681185625
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,15,397.392,4.95455,2011.51,37.79058838326158,1973.7194116167384
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,16,506.483,2.77273,2011.51,42.32314242616757,1969.1868575738324
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,17,496.382,3.22727,2011.51,41.04975775539286,1970.4602422446071
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,18,472.14,0.681818,2011.51,46.55353756621263,1964.9564624337875
+low_data_100,100,cold_outlet_temperature_k,Cold outlet temperature,K,LinearSVR,19,540.827,4.86364,2011.51,41.279659800477994,1970.230340199522

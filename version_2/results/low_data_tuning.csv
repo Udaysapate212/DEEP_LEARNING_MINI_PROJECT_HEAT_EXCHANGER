@@ -1,0 +1,43 @@
+subset_name,subset_size,Target,Model,Params,Validation_RMSE
+low_data_100,100,hx_1_heat_load_kw,DecisionTree,"{'max_depth': 6, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': None, 'n_thresholds': 18, 'random_state': 42}",6.289440629314379
+low_data_100,100,hx_1_heat_load_kw,DecisionTree,"{'max_depth': 4, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': None, 'n_thresholds': 14, 'random_state': 42}",6.440056941075467
+low_data_100,100,hx_1_heat_load_kw,GradientBoosting,"{'n_estimators': 40, 'learning_rate': 0.06, 'max_depth': 2, 'min_samples_split': 25, 'min_samples_leaf': 10, 'n_thresholds': 16, 'random_state': 42}",4.278360261479604
+low_data_100,100,hx_1_heat_load_kw,GradientBoosting,"{'n_estimators': 25, 'learning_rate': 0.08, 'max_depth': 2, 'min_samples_split': 25, 'min_samples_leaf': 10, 'n_thresholds': 14, 'random_state': 42}",5.40934838630392
+low_data_100,100,hx_1_heat_load_kw,KNN,"{'k': 5, 'weighted': True}",6.247491314290684
+low_data_100,100,hx_1_heat_load_kw,KNN,"{'k': 9, 'weighted': True}",6.445626468916589
+low_data_100,100,hx_1_heat_load_kw,KNN,"{'k': 11, 'weighted': False}",7.722965342236847
+low_data_100,100,hx_1_heat_load_kw,LinearRegressionGD,"{'lr': 0.03, 'epochs': 1200, 'l2': 0.0}",1.4196304744043156
+low_data_100,100,hx_1_heat_load_kw,LinearRegressionGD,"{'lr': 0.02, 'epochs': 1600, 'l2': 0.0001}",1.4636967073225686
+low_data_100,100,hx_1_heat_load_kw,LinearSVR,"{'lr': 0.008, 'epochs': 1300, 'epsilon': 0.5, 'C': 1.0, 'l2': 0.0001}",71.08897062466849
+low_data_100,100,hx_1_heat_load_kw,LinearSVR,"{'lr': 0.01, 'epochs': 1000, 'epsilon': 0.35, 'C': 0.8, 'l2': 0.0001}",80.35781506334851
+low_data_100,100,hx_1_heat_load_kw,MeanBaseline,{},19.46085957716542
+low_data_100,100,hx_1_heat_load_kw,RandomForest,"{'n_estimators': 16, 'max_depth': 6, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': 'sqrt', 'n_thresholds': 18, 'random_state': 42}",7.861547007713817
+low_data_100,100,hx_1_heat_load_kw,RandomForest,"{'n_estimators': 10, 'max_depth': 5, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': 'sqrt', 'n_thresholds': 14, 'random_state': 42}",9.569078314608918
+low_data_100,100,hot_outlet_temperature_k,DecisionTree,"{'max_depth': 6, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': None, 'n_thresholds': 18, 'random_state': 42}",1.494134979037304
+low_data_100,100,hot_outlet_temperature_k,DecisionTree,"{'max_depth': 4, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': None, 'n_thresholds': 14, 'random_state': 42}",1.5300370296635284
+low_data_100,100,hot_outlet_temperature_k,GradientBoosting,"{'n_estimators': 40, 'learning_rate': 0.06, 'max_depth': 2, 'min_samples_split': 25, 'min_samples_leaf': 10, 'n_thresholds': 16, 'random_state': 42}",1.0227382278471102
+low_data_100,100,hot_outlet_temperature_k,GradientBoosting,"{'n_estimators': 25, 'learning_rate': 0.08, 'max_depth': 2, 'min_samples_split': 25, 'min_samples_leaf': 10, 'n_thresholds': 14, 'random_state': 42}",1.3075343535461474
+low_data_100,100,hot_outlet_temperature_k,KNN,"{'k': 5, 'weighted': True}",1.4838323166364473
+low_data_100,100,hot_outlet_temperature_k,KNN,"{'k': 9, 'weighted': True}",1.5310516825755267
+low_data_100,100,hot_outlet_temperature_k,KNN,"{'k': 11, 'weighted': False}",1.8343529325900445
+low_data_100,100,hot_outlet_temperature_k,LinearRegressionGD,"{'lr': 0.03, 'epochs': 1200, 'l2': 0.0}",0.3364250014906674
+low_data_100,100,hot_outlet_temperature_k,LinearRegressionGD,"{'lr': 0.02, 'epochs': 1600, 'l2': 0.0001}",0.3489956420692573
+low_data_100,100,hot_outlet_temperature_k,LinearSVR,"{'lr': 0.008, 'epochs': 1300, 'epsilon': 0.5, 'C': 1.0, 'l2': 0.0001}",325.5939016278608
+low_data_100,100,hot_outlet_temperature_k,LinearSVR,"{'lr': 0.01, 'epochs': 1000, 'epsilon': 0.35, 'C': 0.8, 'l2': 0.0001}",335.18452388350664
+low_data_100,100,hot_outlet_temperature_k,MeanBaseline,{},4.623437702375174
+low_data_100,100,hot_outlet_temperature_k,RandomForest,"{'n_estimators': 16, 'max_depth': 6, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': 'sqrt', 'n_thresholds': 18, 'random_state': 42}",1.8677681886913853
+low_data_100,100,hot_outlet_temperature_k,RandomForest,"{'n_estimators': 10, 'max_depth': 5, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': 'sqrt', 'n_thresholds': 14, 'random_state': 42}",2.273686078233667
+low_data_100,100,cold_outlet_temperature_k,DecisionTree,"{'max_depth': 4, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': None, 'n_thresholds': 14, 'random_state': 42}",0.0
+low_data_100,100,cold_outlet_temperature_k,DecisionTree,"{'max_depth': 6, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': None, 'n_thresholds': 18, 'random_state': 42}",0.0
+low_data_100,100,cold_outlet_temperature_k,GradientBoosting,"{'n_estimators': 25, 'learning_rate': 0.08, 'max_depth': 2, 'min_samples_split': 25, 'min_samples_leaf': 10, 'n_thresholds': 14, 'random_state': 42}",0.0
+low_data_100,100,cold_outlet_temperature_k,GradientBoosting,"{'n_estimators': 40, 'learning_rate': 0.06, 'max_depth': 2, 'min_samples_split': 25, 'min_samples_leaf': 10, 'n_thresholds': 16, 'random_state': 42}",0.0
+low_data_100,100,cold_outlet_temperature_k,KNN,"{'k': 5, 'weighted': True}",2.1268859807002749e-13
+low_data_100,100,cold_outlet_temperature_k,KNN,"{'k': 11, 'weighted': False}",2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,KNN,"{'k': 9, 'weighted': True}",2.4116620165382783e-13
+low_data_100,100,cold_outlet_temperature_k,LinearRegressionGD,"{'lr': 0.03, 'epochs': 1200, 'l2': 0.0}",5.332385353339566e-13
+low_data_100,100,cold_outlet_temperature_k,LinearRegressionGD,"{'lr': 0.02, 'epochs': 1600, 'l2': 0.0001}",0.037655281194247436
+low_data_100,100,cold_outlet_temperature_k,LinearSVR,"{'lr': 0.008, 'epochs': 1300, 'epsilon': 0.5, 'C': 1.0, 'l2': 0.0001}",1969.9424006062504
+low_data_100,100,cold_outlet_temperature_k,LinearSVR,"{'lr': 0.01, 'epochs': 1000, 'epsilon': 0.35, 'C': 0.8, 'l2': 0.0001}",1979.5339600559169
+low_data_100,100,cold_outlet_temperature_k,MeanBaseline,{},0.0
+low_data_100,100,cold_outlet_temperature_k,RandomForest,"{'n_estimators': 10, 'max_depth': 5, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': 'sqrt', 'n_thresholds': 14, 'random_state': 42}",2.2737367544323206e-13
+low_data_100,100,cold_outlet_temperature_k,RandomForest,"{'n_estimators': 16, 'max_depth': 6, 'min_samples_split': 25, 'min_samples_leaf': 10, 'max_features': 'sqrt', 'n_thresholds': 18, 'random_state': 42}",6.821210263296962e-13

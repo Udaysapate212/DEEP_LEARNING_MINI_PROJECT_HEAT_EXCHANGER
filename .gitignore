@@ -26,18 +26,20 @@ wheels/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Model files (large binary files)
+# Model files (large binary files - don't push to GitHub)
 *.h5
 *.keras
+*.joblib
 *.pb
 *.ckpt
 *.weights.h5
 
-# Data files (if large)
-*.csv
-
-# Generated plots and outputs
-*.png
+# Generated plots and outputs (don't push to GitHub)
+training_history.png
+predictions_vs_actual.png
+detailed_comparison.png
+time_series_comparison.png
+model_architecture.png
 *.jpg
 *.jpeg
 *.pdf
@@ -60,6 +62,10 @@ logs/
 .DS_Store
 Thumbs.db
 
-# Comparison outputs
+# Comparison outputs (generated files - don't push)
 predictions_comparison.csv
 detailed_comparison.csv
+
+# Temporary files
+temp/
+add_pilstm_to_notebook.py
